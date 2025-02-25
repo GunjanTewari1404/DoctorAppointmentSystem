@@ -5,22 +5,20 @@ A modern, full-stack web application for managing doctor appointments, built wit
 ## Features
 
 ### For Patients
-- 🔍 Search and browse available doctors
-- 📅 Book appointments with preferred doctors
-- 📊 View appointment history and status
-- 🔔 Real-time notifications for appointment updates
+- Search and browse available doctors
+- Book appointments with preferred doctors
+- View appointment history and status
+- Real-time notifications for appointment updates
 
 ### For Doctors
-- 📝 Create and manage professional profile
-- ⏰ Set available time slots
-- ✅ Accept or reject appointment requests
-- 📊 View upcoming appointments and schedule
+- Create and manage professional profile
+- Set available time slots
+- Accept or reject appointment requests
+- View upcoming appointments and schedule
 
 ### For Administrators
-- 👨‍⚕️ Review and approve doctor applications
-- 👥 Manage user roles and permissions
-- 📊 View system statistics and metrics
-- 🏥 Monitor overall system activity
+- Review and approve doctor applications
+- Manage user roles and permissions
 
 ## Tech Stack
 
